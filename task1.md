@@ -18,4 +18,4 @@ cube机器人示例
 <img width="2208" height="1634" alt="image" src="https://github.com/user-attachments/assets/57fd33ef-7515-42ed-a17a-8479f95d880f" />
 
 机器人底盘移动示例
-<img width="2208" height="1634" alt="image" src="https://github.com/user-attachments/assets/58032e19-f097-444d-8ad4-3910f1dd1301" />
+<img width="3348" height="1682" alt="image" src="https://github.com/user-attachments/assets/d5709b4f-a3e6-453f-8de8-29a2201d87ec" />
